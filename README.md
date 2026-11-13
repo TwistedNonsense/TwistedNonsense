@@ -21,7 +21,7 @@ Building lightweight automation systems that turn messy business processes into 
 
 ## 😎 Fun Facts
 - I've been a youth wrestling coach for the past 18 years
-- I've been an avid APA pool player (SL7) for the past 19 years
+- I've been an avid APA pool player for the past 19 years
 
 <!--
 **TwistedNonsense/TwistedNonsense** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
